@@ -1,6 +1,4 @@
-﻿Mendes and Rai 7
-
-Raniery Mendes and Ash Rai Professor Paul Pauca
+## Raniery Mendes and Ash Rai 
 
 CSC 674: Machine Learning March 23, 2023
 
